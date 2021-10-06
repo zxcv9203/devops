@@ -1,5 +1,5 @@
-# DevOps 공부하기
+# DevOps Study
 
-## [DevOps 등장배경](https://github.com/zxcv9203/devops/tree/chapter1)
+## [1. DevOps에 대해 알아보기](./master/chapter1)
 
 
